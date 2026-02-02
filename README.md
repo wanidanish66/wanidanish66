@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PantheOn<br><br>🌱 I’m currently learning Advanced python, Database, API's<br><br>👨‍💻 All of my projects are available at https://bright-fairy-e72bc4.netlify.app/<br><br>📫 How to reach me wanid582@gmail.com<br><br>📄 Know about my experiences https://bright-fairy-e72bc4.netlify.app/assets/Software%20Developer%20Resume.pdf
+🔭 I’m currently working on PantheOn<br><br>🌱 I’m currently learning Advanced python, Database, API's<br><br>👨‍💻 All of my projects are available at https://bright-fairy-e72bc4.netlify.app/<br><br>📫 How to reach me wanid582@gmail.com<br><br>📄 Know about my experiences https://bright-fairy-e72bc4.netlify.app/assets/resume(m).pdf
 
 
 ## 🌐 Socials:
